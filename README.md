@@ -1,7 +1,3 @@
-Here’s a professional, eye-catching GitHub profile README.md tailored to your experience. It balances clarity, personality, and authority while showing your unique strengths as a GIS/Python developer:
-
-⸻
-
 👋 Hi, I’m Abdul Rehman
 
 🚀 GIS Developer | Python & Web Mapping Specialist | Top Rated Plus on Upwork
