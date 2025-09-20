@@ -36,12 +36,10 @@ With 10+ years of experience in geospatial development, I build scalable Web GIS
 ⸻
 
 📫 Connect with Me
-	•	🌐 Website: GeoSouls.com
+	•	🌐 Website: geoforger.com
 	•	💼 LinkedIn: linkedin.com/in/abdul-rehman-gis-dev
 	•	📧 Email: abdulrehman.ch@live.com
 
 ⸻
 
 💡 “Turning geospatial data into smart solutions for a better connected world.”
-
-⸻
