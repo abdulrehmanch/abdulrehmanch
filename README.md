@@ -42,5 +42,7 @@ and international clients in domains like mining, traffic planning, real estate,
 * 💼 LinkedIn: [linkedin.com/in/abdul-rehman-gis-dev](https://linkedin.com/in/abdul-rehman-gis-dev)
 * 📧 Email: mailto:abdulrehman.ch@live.com
 * 📱 WhatsApp: [+92-336-6990019](https://wa.me/923366990019)
+* ▶️ [Visit my YouTube](https://youtube.com/playlist?list=PL1N04_-hn_z-p7wVWY7PInoNDhsPo2MP7&si=OmyD5fCGNoolWGox)
+
 
 💡 “Turning geospatial data into smart solutions for a better connected world.”
