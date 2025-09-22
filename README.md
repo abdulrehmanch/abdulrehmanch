@@ -33,7 +33,7 @@ and international clients in domains like mining, traffic planning, real estate,
 
 * ⭐ Top Rated Plus Freelancer on Upwork
 * 🎓 MPhil in Geomatics & MSc in GIS (University of the Punjab, Pakistan)
-* 🌐 Delivered 20+ international projects with consistent 5-star ratings
+* 🌐 Delivered 50+ international projects with consistent 5-star ratings
 * 🤝 Experienced in leading teams & collaborating with global clients
 
 📫 Connect with Me
