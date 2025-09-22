@@ -39,8 +39,8 @@ and international clients in domains like mining, traffic planning, real estate,
 📫 Connect with Me
 
 * 🌐 Website: geoforger.com
-* 💼 LinkedIn: linkedin.com/in/abdul-rehman-gis-dev
-* 📧 Email: abdulrehman.ch@live.com
-* 📱 WhatsApp: +92-336-6990019
+* 💼 LinkedIn: [linkedin.com/in/abdul-rehman-gis-dev](https://linkedin.com/in/abdul-rehman-gis-dev)
+* 📧 Email: mailto:abdulrehman.ch@live.com
+* 📱 WhatsApp: [+92-336-6990019](https://wa.me/923366990019)
 
 💡 “Turning geospatial data into smart solutions for a better connected world.”
