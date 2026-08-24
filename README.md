@@ -1,4 +1,6 @@
-👋 Hi, I’m Abdul Rehman
+# Hi, I'm Abdul Rehman 👋
+
+![Typing Effect](https://demolab.com)
 
 🚀 GIS Developer | Python & Web Mapping Specialist | Top Rated Plus on Upwork
 
